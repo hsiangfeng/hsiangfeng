@@ -118,6 +118,6 @@ I'm a Software Engineer, and blogger. You can find me on [Facebook](https://www.
     <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/links/facebook.webp" width="64" height="64" />
   </a>
   <a href="https://www.instagram.com/isray_notarray/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/links/instagram.png" width="64" height="64" />
+    <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/links/Instagram.png" width="64" height="64" />
   </a>
 </p>
