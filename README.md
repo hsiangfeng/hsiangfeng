@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/typed.gif" width="664" height="238" />
+  <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/typed_8encjeq.gif" width="664" height="238" />
 </p>
 
 # Hi, I'm Ray 👋
