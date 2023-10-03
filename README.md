@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/typed.gif" />
+</p>
+
+
 # Hi, I'm Ray 👋
 
 <a href="https://www.buymeacoffee.com/israynotarray" target="_blank" style="text-decoration: none !important;border: 0px !important;">
