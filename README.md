@@ -1,17 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/typed.gif" />
+  <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/typed.gif" width="664" height="238" />
 </p>
-
 
 # Hi, I'm Ray 👋
 
-<a href="https://www.buymeacoffee.com/israynotarray" target="_blank" style="text-decoration: none !important;border: 0px !important;">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
-      ｜
-<a href="https://portaly.cc/israynotarray/support" target="_blank" style="text-decoration: none !important;border: 0px !important;">
-  <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/loveme/LINE-Pay.png" alt="Buy Me A Coffee" style="height: 50px !important;background: #fff !important;border-radius: 5px !important;padding: 10px !important;" >
-</a>
+> Is Ray Not Array！
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/israynotarray" target="_blank" style="text-decoration: none !important;border: 0px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+        ｜
+  <a href="https://portaly.cc/israynotarray/support" target="_blank" style="text-decoration: none !important;border: 0px !important;">
+    <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/loveme/LINE-Pay.png" alt="Buy Me A Coffee" style="height: 50px !important;background: #fff !important;border-radius: 5px !important;padding: 10px !important;" >
+  </a>
+</p>
 
 ## About Me
 
