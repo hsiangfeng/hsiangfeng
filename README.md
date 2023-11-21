@@ -12,7 +12,7 @@
   </a>
         ｜
   <a href="https://portaly.cc/israynotarray/support" target="_blank" style="text-decoration: none !important;border: 0px !important;">
-    <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/loveme/LINE-Pay.png" alt="Buy Me A Coffee" style="height: 50px !important;background: #fff !important;border-radius: 5px !important;padding: 10px !important;" >
+    <img src="https://raw.githubusercontent.com/hsiangfeng/hsiangfeng/master/assets/images/loveme/logo.b91a6dbf.webp" alt="Buy Me A Coffee" style="height: 50px !important;background: #fff !important;border-radius: 5px !important;padding: 10px !important;" >
   </a>
 </p>
 
